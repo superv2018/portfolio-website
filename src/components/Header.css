@@ -1,0 +1,19 @@
+.header{
+   
+padding: 20px;
+text-align: left;
+    
+   
+}
+.header h1, h2, h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+.header h2 {
+    font-size: 1.3rem;
+}
+
+.header h3 {
+    font-size: 1.1rem;
+}

@@ -1,0 +1,15 @@
+.project-detail a{
+    padding: 0px 20px;
+    text-decoration: none;
+    
+}
+
+.project-detail a.hover {
+    text-decoration: overline;
+}
+
+.project-detail p {
+    padding: 0px 20px;
+    font-size: 0.9rem;
+    margin-top: 0px;
+}
