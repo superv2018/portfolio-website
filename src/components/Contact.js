@@ -1,11 +1,12 @@
+import './Contact.css'
 const Contact = () => {
   return (
-    <div className="section">
+    <div className="contact">
       <h1>Get in touch</h1>
 
-      <email>victorawakan@gmail.com</email>
-      <a>Linkedln</a>
-      <a>Github</a>
+      <a href="mailto:victorawakan@gmail.com">Send email</a>
+      <a href="https://www.linkedin.com/in/victorawakan/">Linkedln</a>
+      <a href="https://github.com/superv2018">Github</a>
     </div>
   );
 };
