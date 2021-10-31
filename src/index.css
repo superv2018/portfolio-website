@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap');
 
 * {
   box-sizing: border-box;
@@ -8,13 +9,14 @@
 
 body {
   background-color: #F2F2F2;
-  font-family: 'Source Sans Pro', monospace;
+  font-family: 'Source Code Pro', monospace;
   line-height: 1.8em;
   padding: 1rem;
-  color: #5D6063;
+  /**color: #5D6063; **/
+  color: 	#343434;
   display: flex;
   justify-content: center;
-  max-width: 400px;
+  max-width: 500px;
   margin: 0px auto;
   text-align: left;
  font-size: 16px;

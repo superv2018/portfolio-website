@@ -4,8 +4,8 @@
     
 }
 
-.project-detail a.hover {
-    text-decoration: overline;
+.project-detail a:hover {
+    text-decoration: underline;
 }
 
 .project-detail p {
